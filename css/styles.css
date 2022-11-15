@@ -1,0 +1,13 @@
+.community-img {
+    border-radius: 16px;
+}
+
+@media (min-width: 768px) {
+    .news-input {
+      width: 50%;
+    }
+  }
+
+#change {
+    background-color: white;
+  }
